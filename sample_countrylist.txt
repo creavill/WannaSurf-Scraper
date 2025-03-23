@@ -1,0 +1,7 @@
+Europe/France
+Europe/Spain
+Europe/Portugal
+North_America/USA/California
+North_America/USA/Hawaii
+Australia_Pacific/Australia
+South_America/Brazil
